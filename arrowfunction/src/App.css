@@ -1,0 +1,63 @@
+body{
+  background-color: antiquewhite;
+  
+}
+.App{
+  display: flex;
+  margin-top: 40px;
+  margin-left: 20px;
+    padding-right: 20px;  
+   
+   
+}
+img{
+  margin-right: 20px;
+}
+ .Actors{
+font-weight: 500;
+ font-size:15px ;
+}
+.Plot{
+  font-size:15px ;
+font-weight: 500;
+}
+.Title{
+ font-size: 25px;
+display: inline-block; 
+margin-right: 40px;
+}
+.Rated{
+  display: inline-block;
+margin-right:20px ;
+margin-left:20px ;
+font-size:15px ;
+background-color: #a9a9a9;
+border-radius: 5px;
+}
+
+
+.Rating{
+ display: inline-block; 
+color:rgb(23, 79, 182);
+font-size: 25px;
+/* margin-left: 40px; */
+}
+.Runtime{
+display: inline-block;
+margin-right:20px ;
+margin-left:20px ;
+font-size:15px ;
+background-color: #a9a9a9;
+border-radius: 5px;
+
+
+}
+.Genre{
+ margin-right:50% ;
+margin-left:20px ;
+font-size:15px ;
+text-align: center;
+background-color: #a9a9a9; 
+border-radius: 10px; 
+
+} 
