@@ -1,19 +1,19 @@
- /* body{
+body{
   background-color: antiquewhite;
   
 }
 .App{
  display: flex;  
   /* width: 200%; */
-  /* margin-top: 40px;
+  margin-top: 40px;
   margin-left: 250px;     
     background-color: white;      
     border:cornflowerblue  solid 1px ;    
        height: 442px; 
         width: 750px;        
-        } */
+        }
    
-   /* .Both{
+   .Both{
      display: flex;
    }
 
@@ -26,17 +26,17 @@ img{
  .Actors{
 font-weight: 500;
  font-size:15px ;
-/* }
+}
 .Plot{
   font-size:15px ; 
-font-weight: 500; */
-/* }/ */
-/* .Title{
+font-weight: 500;
+}
+.Title{
  
 display: inline-block; 
-width:50% ;  */
+width:50% ;
 
-/* }
+}
 .Rated{
   display: inline-block;
 margin-right:20px ;
@@ -44,25 +44,25 @@ margin-left:20px ;
 font-size:15px ;
 background-color: #a9a9a9;
 border-radius: 5px;
-} */
+}
 
 
-/* .Rating{
+.Rating{
  display: inline-block; 
 color:rgb(23, 79, 182);
-font-size: 25px; */
+font-size: 25px;
 
-/* }
+}
 .Runtime{
 display: inline-block;
 margin-right:20px ;
 margin-left:20px ;
 font-size:15px ;
 background-color: #a9a9a9;
-border-radius: 5px; */
+border-radius: 5px;
 
 
-/* }
+}
 .Genre{
  margin-right:50% ;
 margin-left:20px ;
@@ -71,4 +71,4 @@ text-align: center;
 background-color: #a9a9a9; 
 border-radius: 10px; 
 
-}    */
+} 

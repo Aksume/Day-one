@@ -1,0 +1,41 @@
+ .row{
+   display: flex; 
+   font-size: 5px;
+   margin-top: 20px;
+    border-radius: 10px; 
+  margin-left: 300px;
+ 
+}
+img{
+ height: 210px; 
+
+
+} 
+
+.both{
+    
+     border: #000 solid 1px;
+     margin-right: 20px; 
+     margin-top: -1px;
+    }
+
+h1{
+   
+    width:80% ;
+   padding-right: 50px;
+padding-left:40px ;
+ margin-left: 7px;
+ margin-top:0px ;
+}
+button{
+     
+     margin-left: 40px;
+     margin-bottom: 10px;
+    font-size: 10px;
+    border: red solid 1px;
+    background-color: rgb(246, 95, 95);
+    border-radius: 5px;
+}
+.movie-app{
+    width: 50%;
+}
